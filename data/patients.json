@@ -1,0 +1,899 @@
+[
+  {
+    "id": "P-0001",
+    "name": "Aarav Sharma",
+    "phone": "+91 91000 10000",
+    "email": "aarav.sharma@example.com",
+    "dateOfBirth": "1988-04-12",
+    "gender": "MALE",
+    "address": "10, Vijay Nagar, Indore",
+    "bloodGroup": "B+",
+    "allergies": "None known",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Regular 6-monthly check-ups. Two composite fillings (2021).",
+    "emergencyContact": "Family · +91 97000 10088",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "16": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-01-13T05:30:00.000Z"
+      },
+      "26": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-01-13T05:30:00.000Z"
+      },
+      "36": {
+        "condition": "ROOT_CANAL",
+        "notes": "",
+        "updatedAt": "2026-01-13T05:30:00.000Z"
+      },
+      "46": {
+        "condition": "CROWN",
+        "notes": "",
+        "updatedAt": "2026-01-13T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n0a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-01-13T05:30:00.000Z"
+      }
+    ],
+    "documents": [
+      {
+        "id": "d0a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-01-13",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d0b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-01-13",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-01-13T05:30:00.000Z",
+    "updatedAt": "2026-01-13T05:30:00.000Z"
+  },
+  {
+    "id": "P-0002",
+    "name": "Priya Patel",
+    "phone": "+91 91007 13571",
+    "email": "priya.patel@example.com",
+    "dateOfBirth": "1992-09-03",
+    "gender": "FEMALE",
+    "address": "17, Palasia, Indore",
+    "bloodGroup": "O+",
+    "allergies": "None known",
+    "medicalHistory": "Controlled hypertension",
+    "dentalHistory": "Previous RCT on 36 at another clinic. Occasional sensitivity.",
+    "emergencyContact": "Family · +91 97010 10388",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "11": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-01-24T05:30:00.000Z"
+      },
+      "21": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-01-24T05:30:00.000Z"
+      },
+      "37": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-01-24T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-01-24T05:30:00.000Z",
+    "updatedAt": "2026-01-24T05:30:00.000Z"
+  },
+  {
+    "id": "P-0003",
+    "name": "Rahul Verma",
+    "phone": "+91 91014 17142",
+    "email": "rahul.verma@example.com",
+    "dateOfBirth": "1979-01-22",
+    "gender": "MALE",
+    "address": "24, Rajendra Nagar, Indore",
+    "bloodGroup": "A+",
+    "allergies": "None known",
+    "medicalHistory": "Type 2 diabetes (on metformin)",
+    "dentalHistory": "Irregular dental visits. Complains of bleeding gums while brushing.",
+    "emergencyContact": "Family · +91 97020 10688",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [
+      {
+        "id": "n2a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-02-04T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-02-04T05:30:00.000Z",
+    "updatedAt": "2026-02-04T05:30:00.000Z"
+  },
+  {
+    "id": "P-0004",
+    "name": "Sneha Kulkarni",
+    "phone": "+91 91022 20713",
+    "email": "sneha.kulkarni@example.com",
+    "dateOfBirth": "1995-06-17",
+    "gender": "FEMALE",
+    "address": "31, Sapna Sangeeta, Indore",
+    "bloodGroup": "AB+",
+    "allergies": "Penicillin",
+    "medicalHistory": "Mild asthma",
+    "dentalHistory": "Orthodontic treatment as a teenager. Wears night retainer occasionally.",
+    "emergencyContact": "Family · +91 97030 10988",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "15": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-02-15T05:30:00.000Z"
+      },
+      "46": {
+        "condition": "EXTRACTION_REQUIRED",
+        "notes": "",
+        "updatedAt": "2026-02-15T05:30:00.000Z"
+      },
+      "47": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-02-15T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [
+      {
+        "id": "d3a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-02-15",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d3b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-02-15",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-02-15T05:30:00.000Z",
+    "updatedAt": "2026-02-15T05:30:00.000Z"
+  },
+  {
+    "id": "P-0005",
+    "name": "Vikram Singh Rathore",
+    "phone": "+91 91029 24284",
+    "email": "vikram.rathore@example.com",
+    "dateOfBirth": "1984-11-30",
+    "gender": "MALE",
+    "address": "38, Bhawarkuan, Indore",
+    "bloodGroup": "O-",
+    "allergies": "Latex (mild)",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Extraction of 48 in 2019. No complications.",
+    "emergencyContact": "Family · +91 97040 11288",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "24": {
+        "condition": "ROOT_CANAL",
+        "notes": "",
+        "updatedAt": "2026-02-26T05:30:00.000Z"
+      },
+      "25": {
+        "condition": "CROWN",
+        "notes": "",
+        "updatedAt": "2026-02-26T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n4a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-02-26T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-02-26T05:30:00.000Z",
+    "updatedAt": "2026-02-26T05:30:00.000Z"
+  },
+  {
+    "id": "P-0006",
+    "name": "Neha Joshi",
+    "phone": "+91 91036 27855",
+    "email": "neha.joshi@example.com",
+    "dateOfBirth": "1990-02-08",
+    "gender": "FEMALE",
+    "address": "45, Annapurna, Indore",
+    "bloodGroup": "B+",
+    "allergies": "Sulfa drugs",
+    "medicalHistory": "Thyroid (on medication)",
+    "dentalHistory": "First visit to a dentist in over three years.",
+    "emergencyContact": "Family · +91 97050 11588",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-03-09T05:30:00.000Z",
+    "updatedAt": "2026-03-09T05:30:00.000Z"
+  },
+  {
+    "id": "P-0007",
+    "name": "Arjun Malhotra",
+    "phone": "+91 91044 31426",
+    "email": "arjun.malhotra@example.com",
+    "dateOfBirth": "2001-07-25",
+    "gender": "MALE",
+    "address": "52, Scheme No. 54, Indore",
+    "bloodGroup": "A-",
+    "allergies": "None known",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Regular 6-monthly check-ups. Two composite fillings (2021).",
+    "emergencyContact": "Family · +91 97060 11888",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "11": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-03-20T05:30:00.000Z"
+      },
+      "21": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-03-20T05:30:00.000Z"
+      },
+      "37": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-03-20T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n6a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-03-20T05:30:00.000Z"
+      }
+    ],
+    "documents": [
+      {
+        "id": "d6a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-03-20",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d6b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-03-20",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-03-20T05:30:00.000Z",
+    "updatedAt": "2026-03-20T05:30:00.000Z"
+  },
+  {
+    "id": "P-0008",
+    "name": "Ishita Agrawal",
+    "phone": "+91 91051 34997",
+    "email": "ishita.agrawal@example.com",
+    "dateOfBirth": "1998-12-14",
+    "gender": "FEMALE",
+    "address": "59, Nipania, Indore",
+    "bloodGroup": "O+",
+    "allergies": "None known",
+    "medicalHistory": "Controlled hypertension",
+    "dentalHistory": "Previous RCT on 36 at another clinic. Occasional sensitivity.",
+    "emergencyContact": "Family · +91 97070 12188",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "18": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-03-31T05:30:00.000Z"
+      },
+      "28": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-03-31T05:30:00.000Z"
+      },
+      "36": {
+        "condition": "IMPLANT",
+        "notes": "",
+        "updatedAt": "2026-03-31T05:30:00.000Z"
+      },
+      "38": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-03-31T05:30:00.000Z"
+      },
+      "48": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-03-31T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-03-31T05:30:00.000Z",
+    "updatedAt": "2026-03-31T05:30:00.000Z"
+  },
+  {
+    "id": "P-0009",
+    "name": "Mohit Choudhary",
+    "phone": "+91 91058 38568",
+    "email": "mohit.choudhary@example.com",
+    "dateOfBirth": "1975-05-05",
+    "gender": "MALE",
+    "address": "66, Rau, Indore",
+    "bloodGroup": "B-",
+    "allergies": "None known",
+    "medicalHistory": "Type 2 diabetes (on metformin)",
+    "dentalHistory": "Irregular dental visits. Complains of bleeding gums while brushing.",
+    "emergencyContact": "Family · +91 97080 12488",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [
+      {
+        "id": "n8a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-04-11T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-04-11T05:30:00.000Z",
+    "updatedAt": "2026-04-11T05:30:00.000Z"
+  },
+  {
+    "id": "P-0010",
+    "name": "Kavita Nair",
+    "phone": "+91 91066 42139",
+    "email": "kavita.nair@example.com",
+    "dateOfBirth": "1968-03-19",
+    "gender": "FEMALE",
+    "address": "73, Old Palasia, Indore",
+    "bloodGroup": "A+",
+    "allergies": "None known",
+    "medicalHistory": "Mild asthma",
+    "dentalHistory": "Orthodontic treatment as a teenager. Wears night retainer occasionally.",
+    "emergencyContact": "Family · +91 97090 12788",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "24": {
+        "condition": "ROOT_CANAL",
+        "notes": "",
+        "updatedAt": "2026-04-22T05:30:00.000Z"
+      },
+      "25": {
+        "condition": "CROWN",
+        "notes": "",
+        "updatedAt": "2026-04-22T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [
+      {
+        "id": "d9a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-04-22",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d9b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-04-22",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-04-22T05:30:00.000Z",
+    "updatedAt": "2026-04-22T05:30:00.000Z"
+  },
+  {
+    "id": "P-0011",
+    "name": "Siddharth Jain",
+    "phone": "+91 91073 45710",
+    "email": "siddharth.jain@example.com",
+    "dateOfBirth": "1993-08-09",
+    "gender": "MALE",
+    "address": "80, Sukhliya, Indore",
+    "bloodGroup": "O+",
+    "allergies": "Penicillin",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Extraction of 48 in 2019. No complications.",
+    "emergencyContact": "Family · +91 97100 13088",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "16": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-05-03T05:30:00.000Z"
+      },
+      "26": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-05-03T05:30:00.000Z"
+      },
+      "36": {
+        "condition": "ROOT_CANAL",
+        "notes": "",
+        "updatedAt": "2026-05-03T05:30:00.000Z"
+      },
+      "46": {
+        "condition": "CROWN",
+        "notes": "",
+        "updatedAt": "2026-05-03T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n10a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-05-03T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-05-03T05:30:00.000Z",
+    "updatedAt": "2026-05-03T05:30:00.000Z"
+  },
+  {
+    "id": "P-0012",
+    "name": "Ananya Gupta",
+    "phone": "+91 91080 49281",
+    "email": "ananya.gupta@example.com",
+    "dateOfBirth": "2012-10-02",
+    "gender": "FEMALE",
+    "address": "87, Tilak Nagar, Indore",
+    "bloodGroup": "B+",
+    "allergies": "Latex (mild)",
+    "medicalHistory": "Thyroid (on medication)",
+    "dentalHistory": "First visit to a dentist in over three years.",
+    "emergencyContact": "Family · +91 97110 13388",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-05-14T05:30:00.000Z",
+    "updatedAt": "2026-05-14T05:30:00.000Z"
+  },
+  {
+    "id": "P-0013",
+    "name": "Rakesh Tiwari",
+    "phone": "+91 91088 52852",
+    "email": "rakesh.tiwari@example.com",
+    "dateOfBirth": "1965-12-27",
+    "gender": "MALE",
+    "address": "94, Mhow Naka, Indore",
+    "bloodGroup": "AB-",
+    "allergies": "Sulfa drugs",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Regular 6-monthly check-ups. Two composite fillings (2021).",
+    "emergencyContact": "Family · +91 97120 13688",
+    "status": "INACTIVE",
+    "dentalChart": {
+      "18": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-05-25T05:30:00.000Z"
+      },
+      "28": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-05-25T05:30:00.000Z"
+      },
+      "36": {
+        "condition": "IMPLANT",
+        "notes": "",
+        "updatedAt": "2026-05-25T05:30:00.000Z"
+      },
+      "38": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-05-25T05:30:00.000Z"
+      },
+      "48": {
+        "condition": "MISSING",
+        "notes": "",
+        "updatedAt": "2026-05-25T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n12a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-05-25T05:30:00.000Z"
+      }
+    ],
+    "documents": [
+      {
+        "id": "d12a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-05-25",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d12b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-05-25",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-05-25T05:30:00.000Z",
+    "updatedAt": "2026-05-25T05:30:00.000Z"
+  },
+  {
+    "id": "P-0014",
+    "name": "Pooja Saxena",
+    "phone": "+91 91095 56423",
+    "email": "pooja.saxena@example.com",
+    "dateOfBirth": "1987-04-30",
+    "gender": "FEMALE",
+    "address": "101, Bengali Square, Indore",
+    "bloodGroup": "A+",
+    "allergies": "None known",
+    "medicalHistory": "Controlled hypertension",
+    "dentalHistory": "Previous RCT on 36 at another clinic. Occasional sensitivity.",
+    "emergencyContact": "Family · +91 97130 13988",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "15": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-06-05T05:30:00.000Z"
+      },
+      "46": {
+        "condition": "EXTRACTION_REQUIRED",
+        "notes": "",
+        "updatedAt": "2026-06-05T05:30:00.000Z"
+      },
+      "47": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-06-05T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-06-05T05:30:00.000Z",
+    "updatedAt": "2026-06-05T05:30:00.000Z"
+  },
+  {
+    "id": "P-0015",
+    "name": "Harsh Vardhan",
+    "phone": "+91 91102 59994",
+    "email": "harsh.vardhan@example.com",
+    "dateOfBirth": "1999-01-11",
+    "gender": "MALE",
+    "address": "108, Khandwa Road, Indore",
+    "bloodGroup": "O+",
+    "allergies": "None known",
+    "medicalHistory": "Type 2 diabetes (on metformin)",
+    "dentalHistory": "Irregular dental visits. Complains of bleeding gums while brushing.",
+    "emergencyContact": "Family · +91 97140 14288",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [
+      {
+        "id": "n14a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-06-16T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-06-16T05:30:00.000Z",
+    "updatedAt": "2026-06-16T05:30:00.000Z"
+  },
+  {
+    "id": "P-0016",
+    "name": "Meera Bhatt",
+    "phone": "+91 91110 63565",
+    "email": "meera.bhatt@example.com",
+    "dateOfBirth": "1982-07-07",
+    "gender": "FEMALE",
+    "address": "115, MR 10, Indore",
+    "bloodGroup": "B+",
+    "allergies": "None known",
+    "medicalHistory": "Mild asthma",
+    "dentalHistory": "Orthodontic treatment as a teenager. Wears night retainer occasionally.",
+    "emergencyContact": "Family · +91 97150 14588",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "16": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-06-27T05:30:00.000Z"
+      },
+      "26": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-06-27T05:30:00.000Z"
+      },
+      "36": {
+        "condition": "ROOT_CANAL",
+        "notes": "",
+        "updatedAt": "2026-06-27T05:30:00.000Z"
+      },
+      "46": {
+        "condition": "CROWN",
+        "notes": "",
+        "updatedAt": "2026-06-27T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [
+      {
+        "id": "d15a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-06-27",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d15b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-06-27",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-06-27T05:30:00.000Z",
+    "updatedAt": "2026-06-27T05:30:00.000Z"
+  },
+  {
+    "id": "P-0017",
+    "name": "Aditya Rao",
+    "phone": "+91 91117 67136",
+    "email": "aditya.rao@example.com",
+    "dateOfBirth": "1996-09-21",
+    "gender": "MALE",
+    "address": "122, LIG Colony, Indore",
+    "bloodGroup": "A+",
+    "allergies": "None known",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Extraction of 48 in 2019. No complications.",
+    "emergencyContact": "Family · +91 97160 14888",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "11": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-07-08T05:30:00.000Z"
+      },
+      "21": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-07-08T05:30:00.000Z"
+      },
+      "37": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-07-08T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n16a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-07-08T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-07-08T05:30:00.000Z",
+    "updatedAt": "2026-07-08T05:30:00.000Z"
+  },
+  {
+    "id": "P-0018",
+    "name": "Divya Pandey",
+    "phone": "+91 91124 70707",
+    "email": "divya.pandey@example.com",
+    "dateOfBirth": "1991-05-15",
+    "gender": "FEMALE",
+    "address": "129, Manorama Ganj, Indore",
+    "bloodGroup": "O-",
+    "allergies": "Penicillin",
+    "medicalHistory": "Thyroid (on medication)",
+    "dentalHistory": "First visit to a dentist in over three years.",
+    "emergencyContact": "Family · +91 97170 15188",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-07-19T05:30:00.000Z",
+    "updatedAt": "2026-07-19T05:30:00.000Z"
+  },
+  {
+    "id": "P-0019",
+    "name": "Karan Mehra",
+    "phone": "+91 91132 74278",
+    "email": "karan.mehra@example.com",
+    "dateOfBirth": "1986-02-02",
+    "gender": "MALE",
+    "address": "136, Saket Nagar, Indore",
+    "bloodGroup": "B+",
+    "allergies": "Latex (mild)",
+    "medicalHistory": "No significant medical history",
+    "dentalHistory": "Regular 6-monthly check-ups. Two composite fillings (2021).",
+    "emergencyContact": "Family · +91 97180 15488",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "15": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-07-30T05:30:00.000Z"
+      },
+      "46": {
+        "condition": "EXTRACTION_REQUIRED",
+        "notes": "",
+        "updatedAt": "2026-07-30T05:30:00.000Z"
+      },
+      "47": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-07-30T05:30:00.000Z"
+      }
+    },
+    "notes": [
+      {
+        "id": "n18a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-07-30T05:30:00.000Z"
+      }
+    ],
+    "documents": [
+      {
+        "id": "d18a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-07-30",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d18b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-07-30",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-07-30T05:30:00.000Z",
+    "updatedAt": "2026-07-30T05:30:00.000Z"
+  },
+  {
+    "id": "P-0020",
+    "name": "Tanvi Deshpande",
+    "phone": "+91 91139 77849",
+    "email": "tanvi.deshpande@example.com",
+    "dateOfBirth": "2009-11-19",
+    "gender": "FEMALE",
+    "address": "143, Mahalaxmi Nagar, Indore",
+    "bloodGroup": "A+",
+    "allergies": "Sulfa drugs",
+    "medicalHistory": "Controlled hypertension",
+    "dentalHistory": "Previous RCT on 36 at another clinic. Occasional sensitivity.",
+    "emergencyContact": "Family · +91 97190 15788",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "24": {
+        "condition": "ROOT_CANAL",
+        "notes": "",
+        "updatedAt": "2026-08-10T05:30:00.000Z"
+      },
+      "25": {
+        "condition": "CROWN",
+        "notes": "",
+        "updatedAt": "2026-08-10T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [],
+    "createdAt": "2026-08-10T05:30:00.000Z",
+    "updatedAt": "2026-08-10T05:30:00.000Z"
+  },
+  {
+    "id": "P-0021",
+    "name": "Nikhil Soni",
+    "phone": "+91 91146 81420",
+    "email": "nikhil.soni@example.com",
+    "dateOfBirth": "1994-03-03",
+    "gender": "MALE",
+    "address": "150, Bicholi Mardana, Indore",
+    "bloodGroup": "O+",
+    "allergies": "None known",
+    "medicalHistory": "Type 2 diabetes (on metformin)",
+    "dentalHistory": "Irregular dental visits. Complains of bleeding gums while brushing.",
+    "emergencyContact": "Family · +91 97200 16088",
+    "status": "ACTIVE",
+    "dentalChart": {},
+    "notes": [
+      {
+        "id": "n20a",
+        "text": "Patient prefers late-morning appointments. Mild dental anxiety — explain each step.",
+        "author": "Dr. Clinic Admin",
+        "createdAt": "2026-08-21T05:30:00.000Z"
+      }
+    ],
+    "documents": [],
+    "createdAt": "2026-08-21T05:30:00.000Z",
+    "updatedAt": "2026-08-21T05:30:00.000Z"
+  },
+  {
+    "id": "P-0022",
+    "name": "Riya Kapoor",
+    "phone": "+91 91154 84991",
+    "email": "riya.kapoor@example.com",
+    "dateOfBirth": "1997-08-28",
+    "gender": "FEMALE",
+    "address": "157, AB Road, Indore",
+    "bloodGroup": "AB+",
+    "allergies": "None known",
+    "medicalHistory": "Mild asthma",
+    "dentalHistory": "Orthodontic treatment as a teenager. Wears night retainer occasionally.",
+    "emergencyContact": "Family · +91 97210 16388",
+    "status": "ACTIVE",
+    "dentalChart": {
+      "11": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-09-01T05:30:00.000Z"
+      },
+      "21": {
+        "condition": "FILLED",
+        "notes": "",
+        "updatedAt": "2026-09-01T05:30:00.000Z"
+      },
+      "37": {
+        "condition": "DECAY",
+        "notes": "",
+        "updatedAt": "2026-09-01T05:30:00.000Z"
+      }
+    },
+    "notes": [],
+    "documents": [
+      {
+        "id": "d21a",
+        "name": "OPG X-ray",
+        "type": "X_RAY",
+        "date": "2026-09-01",
+        "notes": "Baseline full-mouth radiograph"
+      },
+      {
+        "id": "d21b",
+        "name": "Treatment consent",
+        "type": "CONSENT",
+        "date": "2026-09-01",
+        "notes": ""
+      }
+    ],
+    "createdAt": "2026-09-01T05:30:00.000Z",
+    "updatedAt": "2026-09-01T05:30:00.000Z"
+  }
+]

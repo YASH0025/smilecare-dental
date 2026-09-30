@@ -1,0 +1,262 @@
+[
+  {
+    "id": "RX-0001",
+    "patientId": "P-0001",
+    "dentistId": "DR-002",
+    "date": "2026-08-21",
+    "diagnosis": "Irreversible pulpitis — 36",
+    "medicines": [
+      {
+        "name": "Amoxicillin 500 mg",
+        "dosage": "1 capsule",
+        "frequency": "Three times a day",
+        "duration": "5 days",
+        "instructions": "After meals. Complete the full course."
+      },
+      {
+        "name": "Ibuprofen 400 mg",
+        "dosage": "1 tablet",
+        "frequency": "Twice a day",
+        "duration": "3 days",
+        "instructions": "After food, only if in pain."
+      },
+      {
+        "name": "Pantoprazole 40 mg",
+        "dosage": "1 tablet",
+        "frequency": "Once daily",
+        "duration": "5 days",
+        "instructions": "Before breakfast, with the antibiotic course."
+      }
+    ],
+    "advice": "Avoid chewing on the left side until the crown is placed.",
+    "createdAt": "2026-08-21T07:30:00.000Z",
+    "updatedAt": "2026-08-21T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0002",
+    "patientId": "P-0003",
+    "dentistId": "DR-001",
+    "date": "2026-08-25",
+    "diagnosis": "Post implant placement — 36",
+    "medicines": [
+      {
+        "name": "Amoxicillin 500 mg",
+        "dosage": "1 capsule",
+        "frequency": "Three times a day",
+        "duration": "5 days",
+        "instructions": "After meals. Complete the full course."
+      },
+      {
+        "name": "Paracetamol 650 mg",
+        "dosage": "1 tablet",
+        "frequency": "When required (max 3/day)",
+        "duration": "3 days",
+        "instructions": "For pain or fever."
+      },
+      {
+        "name": "Chlorhexidine 0.2% mouthwash",
+        "dosage": "10 ml",
+        "frequency": "Twice a day",
+        "duration": "7 days",
+        "instructions": "Rinse for 30 seconds. Don't eat for 30 min after."
+      }
+    ],
+    "advice": "Soft diet for 5 days. Cold compress for swelling.",
+    "createdAt": "2026-08-25T07:30:00.000Z",
+    "updatedAt": "2026-08-25T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0003",
+    "patientId": "P-0005",
+    "dentistId": "DR-002",
+    "date": "2026-08-29",
+    "diagnosis": "Post extraction — 46",
+    "medicines": [
+      {
+        "name": "Paracetamol 650 mg",
+        "dosage": "1 tablet",
+        "frequency": "When required (max 3/day)",
+        "duration": "3 days",
+        "instructions": "For pain or fever."
+      },
+      {
+        "name": "Chlorhexidine 0.2% mouthwash",
+        "dosage": "10 ml",
+        "frequency": "Twice a day",
+        "duration": "7 days",
+        "instructions": "Rinse for 30 seconds. Don't eat for 30 min after."
+      }
+    ],
+    "advice": "Do not spit or use a straw for 24 hours.",
+    "createdAt": "2026-08-29T07:30:00.000Z",
+    "updatedAt": "2026-08-29T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0004",
+    "patientId": "P-0006",
+    "dentistId": "DR-002",
+    "date": "2026-09-02",
+    "diagnosis": "Chronic generalised periodontitis",
+    "medicines": [
+      {
+        "name": "Metronidazole 400 mg",
+        "dosage": "1 tablet",
+        "frequency": "Three times a day",
+        "duration": "5 days",
+        "instructions": "Avoid alcohol during the course."
+      },
+      {
+        "name": "Chlorhexidine 0.2% mouthwash",
+        "dosage": "10 ml",
+        "frequency": "Twice a day",
+        "duration": "7 days",
+        "instructions": "Rinse for 30 seconds. Don't eat for 30 min after."
+      }
+    ],
+    "advice": "Brush twice daily with a soft brush; interdental cleaning.",
+    "createdAt": "2026-09-02T07:30:00.000Z",
+    "updatedAt": "2026-09-02T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0005",
+    "patientId": "P-0002",
+    "dentistId": "DR-001",
+    "date": "2026-09-06",
+    "diagnosis": "Post-whitening sensitivity",
+    "medicines": [
+      {
+        "name": "Potassium nitrate toothpaste",
+        "dosage": "Pea-sized",
+        "frequency": "Twice a day",
+        "duration": "4 weeks",
+        "instructions": "Leave on teeth for a minute before rinsing."
+      }
+    ],
+    "advice": "Avoid tea, coffee and coloured foods for 48 hours.",
+    "createdAt": "2026-09-06T07:30:00.000Z",
+    "updatedAt": "2026-09-06T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0006",
+    "patientId": "P-0009",
+    "dentistId": "DR-002",
+    "date": "2026-09-10",
+    "diagnosis": "Acute periapical abscess — 26",
+    "medicines": [
+      {
+        "name": "Amoxicillin 500 mg",
+        "dosage": "1 capsule",
+        "frequency": "Three times a day",
+        "duration": "5 days",
+        "instructions": "After meals. Complete the full course."
+      },
+      {
+        "name": "Metronidazole 400 mg",
+        "dosage": "1 tablet",
+        "frequency": "Three times a day",
+        "duration": "5 days",
+        "instructions": "Avoid alcohol during the course."
+      },
+      {
+        "name": "Ibuprofen 400 mg",
+        "dosage": "1 tablet",
+        "frequency": "Twice a day",
+        "duration": "3 days",
+        "instructions": "After food, only if in pain."
+      }
+    ],
+    "advice": "Return if swelling increases.",
+    "createdAt": "2026-09-10T07:30:00.000Z",
+    "updatedAt": "2026-09-10T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0007",
+    "patientId": "P-0011",
+    "dentistId": "DR-002",
+    "date": "2026-09-14",
+    "diagnosis": "Dentine hypersensitivity",
+    "medicines": [
+      {
+        "name": "Potassium nitrate toothpaste",
+        "dosage": "Pea-sized",
+        "frequency": "Twice a day",
+        "duration": "4 weeks",
+        "instructions": "Leave on teeth for a minute before rinsing."
+      }
+    ],
+    "advice": "Use a soft-bristled toothbrush.",
+    "createdAt": "2026-09-14T07:30:00.000Z",
+    "updatedAt": "2026-09-14T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0008",
+    "patientId": "P-0016",
+    "dentistId": "DR-002",
+    "date": "2026-09-18",
+    "diagnosis": "Post RCT — 24",
+    "medicines": [
+      {
+        "name": "Ibuprofen 400 mg",
+        "dosage": "1 tablet",
+        "frequency": "Twice a day",
+        "duration": "3 days",
+        "instructions": "After food, only if in pain."
+      }
+    ],
+    "advice": "Crown appointment in two weeks.",
+    "createdAt": "2026-09-18T07:30:00.000Z",
+    "updatedAt": "2026-09-18T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0009",
+    "patientId": "P-0008",
+    "dentistId": "DR-001",
+    "date": "2026-09-22",
+    "diagnosis": "Pericoronitis — 38",
+    "medicines": [
+      {
+        "name": "Amoxicillin 500 mg",
+        "dosage": "1 capsule",
+        "frequency": "Three times a day",
+        "duration": "5 days",
+        "instructions": "After meals. Complete the full course."
+      },
+      {
+        "name": "Chlorhexidine 0.2% mouthwash",
+        "dosage": "10 ml",
+        "frequency": "Twice a day",
+        "duration": "7 days",
+        "instructions": "Rinse for 30 seconds. Don't eat for 30 min after."
+      },
+      {
+        "name": "Paracetamol 650 mg",
+        "dosage": "1 tablet",
+        "frequency": "When required (max 3/day)",
+        "duration": "3 days",
+        "instructions": "For pain or fever."
+      }
+    ],
+    "advice": "Warm saline rinses thrice daily.",
+    "createdAt": "2026-09-22T07:30:00.000Z",
+    "updatedAt": "2026-09-22T07:30:00.000Z"
+  },
+  {
+    "id": "RX-0010",
+    "patientId": "P-0017",
+    "dentistId": "DR-002",
+    "date": "2026-09-26",
+    "diagnosis": "Gingivitis",
+    "medicines": [
+      {
+        "name": "Chlorhexidine 0.2% mouthwash",
+        "dosage": "10 ml",
+        "frequency": "Twice a day",
+        "duration": "7 days",
+        "instructions": "Rinse for 30 seconds. Don't eat for 30 min after."
+      }
+    ],
+    "advice": "Scaling appointment recommended.",
+    "createdAt": "2026-09-26T07:30:00.000Z",
+    "updatedAt": "2026-09-26T07:30:00.000Z"
+  }
+]

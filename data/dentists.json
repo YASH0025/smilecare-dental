@@ -1,0 +1,268 @@
+[
+  {
+    "id": "DR-001",
+    "slug": "dr-ananya-deshmukh",
+    "name": "Dr. Ananya Deshmukh",
+    "photo": "/images/dentists/dr-ananya-deshmukh.svg",
+    "qualification": "BDS, MDS (Prosthodontics & Implantology)",
+    "specialization": "Implants & Cosmetic Dentistry",
+    "experienceYears": 12,
+    "bio": "Dr. Ananya leads SmileCare's implant and smile-design programme. She completed her MDS in Prosthodontics and has placed over 1,800 implants. Patients appreciate her calm manner and meticulous planning — every case starts with a digital preview.",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "serviceIds": [
+      "SRV-001",
+      "SRV-004",
+      "SRV-005",
+      "SRV-003",
+      "SRV-014",
+      "SRV-015",
+      "SRV-016",
+      "SRV-010"
+    ],
+    "workingHours": [
+      {
+        "day": 0,
+        "enabled": false,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 1,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 2,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 3,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 4,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 5,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 6,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      }
+    ],
+    "leaves": [
+      {
+        "id": "lv1",
+        "from": "2026-10-18",
+        "to": "2026-10-19",
+        "reason": "Implantology conference"
+      }
+    ],
+    "active": true,
+    "createdAt": "2025-02-07T04:30:00.000Z",
+    "updatedAt": "2026-09-10T04:30:00.000Z"
+  },
+  {
+    "id": "DR-002",
+    "slug": "dr-rohan-mehta",
+    "name": "Dr. Rohan Mehta",
+    "photo": "/images/dentists/dr-rohan-mehta.svg",
+    "qualification": "BDS, MDS (Conservative Dentistry & Endodontics)",
+    "specialization": "Root Canals & Restorative Care",
+    "experienceYears": 9,
+    "bio": "Dr. Rohan specialises in saving natural teeth. He uses rotary endodontics and magnification for precise, comfortable root canal treatment, and is known for making anxious patients feel at ease.",
+    "languages": [
+      "English",
+      "Hindi",
+      "Gujarati"
+    ],
+    "serviceIds": [
+      "SRV-002",
+      "SRV-009",
+      "SRV-008",
+      "SRV-013",
+      "SRV-010",
+      "SRV-011",
+      "SRV-003",
+      "SRV-016",
+      "SRV-004"
+    ],
+    "workingHours": [
+      {
+        "day": 0,
+        "enabled": false,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 1,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 2,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 3,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 4,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 5,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 6,
+        "enabled": true,
+        "start": "10:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      }
+    ],
+    "leaves": [],
+    "active": true,
+    "createdAt": "2025-03-19T04:30:00.000Z",
+    "updatedAt": "2026-09-10T04:30:00.000Z"
+  },
+  {
+    "id": "DR-003",
+    "slug": "dr-kavya-iyer",
+    "name": "Dr. Kavya Iyer",
+    "photo": "/images/dentists/dr-kavya-iyer.svg",
+    "qualification": "BDS, MDS (Orthodontics & Dentofacial Orthopaedics)",
+    "specialization": "Orthodontics & Children's Dentistry",
+    "experienceYears": 7,
+    "bio": "Dr. Kavya is a certified clear-aligner provider who treats teens and adults with braces and aligners. She also runs our children's clinic, with a gentle, tell-show-do approach.",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "serviceIds": [
+      "SRV-006",
+      "SRV-007",
+      "SRV-012",
+      "SRV-008",
+      "SRV-016"
+    ],
+    "workingHours": [
+      {
+        "day": 0,
+        "enabled": false,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 1,
+        "enabled": false,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 2,
+        "enabled": true,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 3,
+        "enabled": true,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 4,
+        "enabled": true,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 5,
+        "enabled": true,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      },
+      {
+        "day": 6,
+        "enabled": true,
+        "start": "11:00",
+        "end": "19:00",
+        "breakStart": "13:30",
+        "breakEnd": "14:30"
+      }
+    ],
+    "leaves": [],
+    "active": true,
+    "createdAt": "2025-04-28T04:30:00.000Z",
+    "updatedAt": "2026-09-10T04:30:00.000Z"
+  }
+]

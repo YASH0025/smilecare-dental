@@ -1,0 +1,134 @@
+[
+  {
+    "id": "GAL-001",
+    "title": "Reception & waiting lounge",
+    "category": "CLINIC",
+    "image": "/images/gallery/reception.svg",
+    "description": "",
+    "order": 1,
+    "published": true,
+    "createdAt": "2025-12-04T04:30:00.000Z",
+    "updatedAt": "2025-12-04T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-002",
+    "title": "Treatment suite 1",
+    "category": "CLINIC",
+    "image": "/images/gallery/operatory.svg",
+    "description": "",
+    "order": 2,
+    "published": true,
+    "createdAt": "2025-12-14T04:30:00.000Z",
+    "updatedAt": "2025-12-14T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-003",
+    "title": "Sterilisation zone",
+    "category": "EQUIPMENT",
+    "image": "/images/gallery/sterilisation.svg",
+    "description": "",
+    "order": 3,
+    "published": true,
+    "createdAt": "2025-12-24T04:30:00.000Z",
+    "updatedAt": "2025-12-24T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-004",
+    "title": "Digital X-ray unit",
+    "category": "EQUIPMENT",
+    "image": "/images/gallery/xray.svg",
+    "description": "",
+    "order": 4,
+    "published": true,
+    "createdAt": "2026-01-03T04:30:00.000Z",
+    "updatedAt": "2026-01-03T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-005",
+    "title": "Intraoral scanner",
+    "category": "EQUIPMENT",
+    "image": "/images/gallery/scanner.svg",
+    "description": "",
+    "order": 5,
+    "published": true,
+    "createdAt": "2026-01-13T04:30:00.000Z",
+    "updatedAt": "2026-01-13T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-006",
+    "title": "Our clinical team",
+    "category": "TEAM",
+    "image": "/images/gallery/team.svg",
+    "description": "",
+    "order": 6,
+    "published": true,
+    "createdAt": "2026-01-23T04:30:00.000Z",
+    "updatedAt": "2026-01-23T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-007",
+    "title": "Front desk team",
+    "category": "TEAM",
+    "image": "/images/gallery/frontdesk.svg",
+    "description": "",
+    "order": 7,
+    "published": true,
+    "createdAt": "2026-02-02T04:30:00.000Z",
+    "updatedAt": "2026-02-02T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-008",
+    "title": "Implant surgery in progress",
+    "category": "TREATMENTS",
+    "image": "/images/gallery/surgery.svg",
+    "description": "",
+    "order": 8,
+    "published": true,
+    "createdAt": "2026-02-12T04:30:00.000Z",
+    "updatedAt": "2026-02-12T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-009",
+    "title": "Aligner fitting",
+    "category": "TREATMENTS",
+    "image": "/images/gallery/aligner-fit.svg",
+    "description": "",
+    "order": 9,
+    "published": true,
+    "createdAt": "2026-02-22T04:30:00.000Z",
+    "updatedAt": "2026-02-22T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-010",
+    "title": "Kids' dental camp 2025",
+    "category": "EVENTS",
+    "image": "/images/gallery/camp.svg",
+    "description": "",
+    "order": 10,
+    "published": true,
+    "createdAt": "2026-03-04T04:30:00.000Z",
+    "updatedAt": "2026-03-04T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-011",
+    "title": "World Oral Health Day",
+    "category": "EVENTS",
+    "image": "/images/gallery/oralhealthday.svg",
+    "description": "",
+    "order": 11,
+    "published": true,
+    "createdAt": "2026-03-14T04:30:00.000Z",
+    "updatedAt": "2026-03-14T04:30:00.000Z"
+  },
+  {
+    "id": "GAL-012",
+    "title": "Consultation room",
+    "category": "CLINIC",
+    "image": "/images/gallery/consult.svg",
+    "description": "",
+    "order": 12,
+    "published": true,
+    "createdAt": "2026-03-24T04:30:00.000Z",
+    "updatedAt": "2026-03-24T04:30:00.000Z"
+  }
+]

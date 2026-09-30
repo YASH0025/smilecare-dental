@@ -1,0 +1,80 @@
+[
+  {
+    "id": "NTF-00001",
+    "type": "APPOINTMENT_REQUESTED",
+    "title": "New appointment request",
+    "message": "Siddharth Jain requested an appointment online.",
+    "link": "/admin/appointments?status=PENDING",
+    "read": false,
+    "channels": [
+      "IN_APP"
+    ],
+    "createdAt": "2026-09-30T14:25:22.466Z",
+    "updatedAt": "2026-09-30T14:25:22.466Z"
+  },
+  {
+    "id": "NTF-00002",
+    "type": "NEW_LEAD",
+    "title": "New website enquiry",
+    "message": "Rohit Bansal · Dental Implants",
+    "link": "/admin/leads",
+    "read": false,
+    "channels": [
+      "IN_APP"
+    ],
+    "createdAt": "2026-09-30T13:25:22.466Z",
+    "updatedAt": "2026-09-30T13:25:22.466Z"
+  },
+  {
+    "id": "NTF-00003",
+    "type": "PAYMENT_RECEIVED",
+    "title": "Payment received",
+    "message": "₹4,500 via UPI · SC invoice",
+    "link": "/admin/billing",
+    "read": true,
+    "channels": [
+      "IN_APP"
+    ],
+    "createdAt": "2026-09-30T12:25:22.466Z",
+    "updatedAt": "2026-09-30T12:25:22.466Z"
+  },
+  {
+    "id": "NTF-00004",
+    "type": "APPOINTMENT_CONFIRMED",
+    "title": "Appointment confirmed",
+    "message": "Tomorrow's 11:00 AM slot confirmed.",
+    "link": "/admin/calendar",
+    "read": true,
+    "channels": [
+      "IN_APP"
+    ],
+    "createdAt": "2026-09-30T11:25:22.466Z",
+    "updatedAt": "2026-09-30T11:25:22.466Z"
+  },
+  {
+    "id": "NTF-00005",
+    "type": "NEW_PATIENT",
+    "title": "New patient registered",
+    "message": "Riya Kapoor (P-0022)",
+    "link": "/admin/patients/P-0022",
+    "read": true,
+    "channels": [
+      "IN_APP"
+    ],
+    "createdAt": "2026-09-30T09:25:22.466Z",
+    "updatedAt": "2026-09-30T09:25:22.466Z"
+  },
+  {
+    "id": "NTF-00006",
+    "type": "APPOINTMENT_REMINDER",
+    "title": "Reminders queued",
+    "message": "Tomorrow's reminders are ready to send (simulated).",
+    "link": "/admin/calendar",
+    "read": true,
+    "channels": [
+      "IN_APP"
+    ],
+    "createdAt": "2026-09-30T08:25:22.466Z",
+    "updatedAt": "2026-09-30T08:25:22.466Z"
+  }
+]

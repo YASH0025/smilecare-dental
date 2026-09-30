@@ -1,0 +1,122 @@
+{
+  "hero": {
+    "eyebrow": "Premium dental care in Indore",
+    "title": "Advanced Dental Care,",
+    "highlight": "Designed Around You.",
+    "subtitle": "Modern dentistry with expert care, advanced technology and a comfortable patient experience — from your first check-up to a complete smile makeover.",
+    "image": "/images/hero-clinic.svg",
+    "primaryCta": "Book Appointment",
+    "secondaryCta": "Explore Services",
+    "trustPoints": [
+      "Sterilisation-first protocols",
+      "Digital X-rays & 3D scans",
+      "Transparent, upfront pricing"
+    ]
+  },
+  "stats": [
+    {
+      "value": "10+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "15,000+",
+      "label": "Happy Patients"
+    },
+    {
+      "value": "20+",
+      "label": "Treatments"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Patient Rating"
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "icon": "award",
+      "title": "Experienced Dentists",
+      "description": "MDS specialists in implants, root canals and orthodontics — each with a decade of focused clinical work."
+    },
+    {
+      "icon": "scan",
+      "title": "Advanced Technology",
+      "description": "Digital radiography, intraoral scanning and rotary endodontics for precise, faster treatment."
+    },
+    {
+      "icon": "heart-handshake",
+      "title": "Personalized Treatment",
+      "description": "Every plan starts with a detailed consultation and is explained in plain language before we begin."
+    },
+    {
+      "icon": "sofa",
+      "title": "Comfortable Environment",
+      "description": "Calm, private operatories, gentle anaesthesia techniques and zero-rush appointments."
+    },
+    {
+      "icon": "receipt",
+      "title": "Transparent Pricing",
+      "description": "Written estimates before treatment. No surprise add-ons, and flexible payment options."
+    },
+    {
+      "icon": "calendar-check",
+      "title": "Easy Online Booking",
+      "description": "See real-time availability and book the slot that suits you in under a minute."
+    }
+  ],
+  "about": {
+    "title": "A modern dental practice built on trust",
+    "intro": "SmileCare was founded in Indore with a simple belief: excellent dentistry should feel calm, clear and genuinely personal.",
+    "story": "What began as a two-chair practice in New Palasia has grown into a specialist-led clinic trusted by families across Indore. We invested early in digital diagnostics and strict sterilisation standards, and we have kept our appointments deliberately unhurried so that every patient understands their options. Today our team of specialists works together on everything from routine cleanings to full-mouth rehabilitation — under one roof.",
+    "mission": "To deliver specialist-quality dental care with honesty, comfort and long-term oral health at its centre.",
+    "vision": "To be Central India's most trusted name in patient-first, evidence-based dentistry.",
+    "image": "/images/about-team.svg",
+    "values": [
+      {
+        "icon": "shield-check",
+        "title": "Safety first",
+        "description": "Class-B autoclave sterilisation and single-use disposables for every patient."
+      },
+      {
+        "icon": "message-circle",
+        "title": "Clear communication",
+        "description": "We explain the why, the options and the cost before any treatment begins."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Lasting results",
+        "description": "Materials and techniques chosen for durability, not shortcuts."
+      }
+    ],
+    "milestones": [
+      {
+        "year": "2015",
+        "title": "SmileCare opens",
+        "description": "A two-chair practice in New Palasia, Indore."
+      },
+      {
+        "year": "2018",
+        "title": "Digital diagnostics",
+        "description": "Introduced digital X-rays and intraoral scanning."
+      },
+      {
+        "year": "2021",
+        "title": "Specialist team",
+        "description": "Implant, endodontic and orthodontic specialists join full-time."
+      },
+      {
+        "year": "2025",
+        "title": "15,000 patients",
+        "description": "A milestone we owe to our patients' referrals."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to take care of your smile?",
+    "subtitle": "Book your consultation today — real-time slots, instant request, and a call back from our team.",
+    "button": "Book Appointment"
+  },
+  "contact": {
+    "title": "We're here to help",
+    "subtitle": "Questions about a treatment, cost or availability? Send us a message and our front desk will get back to you within one working day."
+  }
+}

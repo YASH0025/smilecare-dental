@@ -1,0 +1,483 @@
+[
+  {
+    "id": "TRT-0001",
+    "patientId": "P-0001",
+    "dentistId": "DR-002",
+    "serviceId": "SRV-002",
+    "title": "Root Canal Treatment — 36",
+    "teeth": [
+      "36"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Consultation",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "X-Ray",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Root Canal",
+        "done": false
+      },
+      {
+        "id": "s4",
+        "label": "Crown",
+        "done": false
+      },
+      {
+        "id": "s5",
+        "label": "Follow-up",
+        "done": false
+      }
+    ],
+    "cost": 9000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-07-22",
+    "followUpDate": "2026-10-05",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-07-22T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0002",
+    "patientId": "P-0002",
+    "dentistId": "DR-001",
+    "serviceId": "SRV-003",
+    "title": "In-clinic Whitening",
+    "teeth": [],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Shade assessment",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Whitening session",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Take-home trays",
+        "done": true
+      },
+      {
+        "id": "s4",
+        "label": "Review",
+        "done": true
+      }
+    ],
+    "cost": 8000,
+    "status": "COMPLETED",
+    "startDate": "2026-07-27",
+    "endDate": "2026-08-17",
+    "notes": "Treatment completed successfully.",
+    "createdAt": "2026-07-27T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0003",
+    "patientId": "P-0003",
+    "dentistId": "DR-001",
+    "serviceId": "SRV-001",
+    "title": "Implant — 36",
+    "teeth": [
+      "36"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Consultation",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "CBCT scan",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Implant placement",
+        "done": true
+      },
+      {
+        "id": "s4",
+        "label": "Healing review",
+        "done": false
+      },
+      {
+        "id": "s5",
+        "label": "Final crown",
+        "done": false
+      }
+    ],
+    "cost": 32000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-08-01",
+    "followUpDate": "2026-10-07",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-08-01T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0004",
+    "patientId": "P-0004",
+    "dentistId": "DR-003",
+    "serviceId": "SRV-006",
+    "title": "Clear Aligner Therapy",
+    "teeth": [],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Records & scan",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Digital plan approval",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Aligners 1–10",
+        "done": false
+      },
+      {
+        "id": "s4",
+        "label": "Aligners 11–20",
+        "done": false
+      },
+      {
+        "id": "s5",
+        "label": "Retainers",
+        "done": false
+      }
+    ],
+    "cost": 85000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-08-06",
+    "followUpDate": "2026-10-08",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-08-06T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0005",
+    "patientId": "P-0005",
+    "dentistId": "DR-002",
+    "serviceId": "SRV-010",
+    "title": "Extraction — 46",
+    "teeth": [
+      "46"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Consultation",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "X-Ray",
+        "done": false
+      },
+      {
+        "id": "s3",
+        "label": "Extraction",
+        "done": false
+      },
+      {
+        "id": "s4",
+        "label": "Suture review",
+        "done": false
+      }
+    ],
+    "cost": 2000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-08-11",
+    "followUpDate": "2026-10-09",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-08-11T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0006",
+    "patientId": "P-0006",
+    "dentistId": "DR-002",
+    "serviceId": "SRV-013",
+    "title": "Periodontal Therapy",
+    "teeth": [],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Charting",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Deep cleaning — upper",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Deep cleaning — lower",
+        "done": true
+      },
+      {
+        "id": "s4",
+        "label": "Re-evaluation",
+        "done": true
+      }
+    ],
+    "cost": 7000,
+    "status": "COMPLETED",
+    "startDate": "2026-08-16",
+    "endDate": "2026-09-06",
+    "notes": "Treatment completed successfully.",
+    "createdAt": "2026-08-16T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0007",
+    "patientId": "P-0007",
+    "dentistId": "DR-003",
+    "serviceId": "SRV-007",
+    "title": "Ceramic Braces",
+    "teeth": [],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Records",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Bonding",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Monthly adjustments",
+        "done": true
+      },
+      {
+        "id": "s4",
+        "label": "Debonding",
+        "done": false
+      },
+      {
+        "id": "s5",
+        "label": "Retainers",
+        "done": false
+      }
+    ],
+    "cost": 42000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-08-21",
+    "followUpDate": "2026-10-11",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-08-21T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0008",
+    "patientId": "P-0010",
+    "dentistId": "DR-001",
+    "serviceId": "SRV-014",
+    "title": "Upper Complete Denture",
+    "teeth": [],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Impressions",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Bite registration",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Try-in",
+        "done": false
+      },
+      {
+        "id": "s4",
+        "label": "Delivery",
+        "done": false
+      },
+      {
+        "id": "s5",
+        "label": "Adjustment",
+        "done": false
+      }
+    ],
+    "cost": 18000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-08-26",
+    "followUpDate": "2026-10-12",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-08-26T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0009",
+    "patientId": "P-0011",
+    "dentistId": "DR-002",
+    "serviceId": "SRV-009",
+    "title": "Composite Fillings — 16, 26",
+    "teeth": [
+      "16",
+      "26"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Consultation",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Filling 16",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Filling 26",
+        "done": true
+      }
+    ],
+    "cost": 3600,
+    "status": "COMPLETED",
+    "startDate": "2026-08-31",
+    "endDate": "2026-09-21",
+    "notes": "Treatment completed successfully.",
+    "createdAt": "2026-08-31T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0010",
+    "patientId": "P-0014",
+    "dentistId": "DR-001",
+    "serviceId": "SRV-005",
+    "title": "Veneers — 11, 21",
+    "teeth": [
+      "11",
+      "21"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Smile design",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "Preparation",
+        "done": false
+      },
+      {
+        "id": "s3",
+        "label": "Temporaries",
+        "done": false
+      },
+      {
+        "id": "s4",
+        "label": "Bonding",
+        "done": false
+      }
+    ],
+    "cost": 24000,
+    "status": "IN_PROGRESS",
+    "startDate": "2026-09-05",
+    "followUpDate": "2026-10-14",
+    "notes": "Progressing as planned. Patient compliant with instructions.",
+    "createdAt": "2026-09-05T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0011",
+    "patientId": "P-0016",
+    "dentistId": "DR-002",
+    "serviceId": "SRV-002",
+    "title": "Root Canal Treatment — 24",
+    "teeth": [
+      "24"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Consultation",
+        "done": true
+      },
+      {
+        "id": "s2",
+        "label": "X-Ray",
+        "done": true
+      },
+      {
+        "id": "s3",
+        "label": "Root Canal",
+        "done": true
+      },
+      {
+        "id": "s4",
+        "label": "Crown",
+        "done": true
+      },
+      {
+        "id": "s5",
+        "label": "Follow-up",
+        "done": true
+      }
+    ],
+    "cost": 10500,
+    "status": "COMPLETED",
+    "startDate": "2026-09-10",
+    "endDate": "2026-10-01",
+    "notes": "Treatment completed successfully.",
+    "createdAt": "2026-09-10T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  },
+  {
+    "id": "TRT-0012",
+    "patientId": "P-0012",
+    "dentistId": "DR-003",
+    "serviceId": "SRV-012",
+    "title": "Preventive Sealants",
+    "teeth": [
+      "36",
+      "46"
+    ],
+    "steps": [
+      {
+        "id": "s1",
+        "label": "Check-up",
+        "done": false
+      },
+      {
+        "id": "s2",
+        "label": "Fluoride",
+        "done": false
+      },
+      {
+        "id": "s3",
+        "label": "Sealants 36, 46",
+        "done": false
+      }
+    ],
+    "cost": 1800,
+    "status": "PLANNED",
+    "startDate": "2026-09-15",
+    "followUpDate": "2026-10-16",
+    "notes": "Awaiting patient confirmation of plan.",
+    "createdAt": "2026-09-15T06:30:00.000Z",
+    "updatedAt": "2026-09-28T06:30:00.000Z"
+  }
+]

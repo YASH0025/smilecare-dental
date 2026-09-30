@@ -1,0 +1,778 @@
+[
+  {
+    "id": "SRV-001",
+    "image": "/images/services/dental-implants.svg",
+    "createdAt": "2025-08-26T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": true,
+    "slug": "dental-implants",
+    "name": "Dental Implants",
+    "category": "Implants",
+    "duration": 60,
+    "price": 25000,
+    "description": "Permanent, natural-looking replacements for missing teeth, anchored securely in the jawbone.",
+    "content": "A dental implant is a small titanium post placed in the jawbone that acts as an artificial root. Once it integrates with the bone, a custom crown is attached — restoring the look, feel and chewing strength of a natural tooth. Implants also help preserve bone and keep neighbouring teeth from drifting.",
+    "benefits": [
+      "Looks and feels like a natural tooth",
+      "Preserves jawbone and facial structure",
+      "No need to grind down adjacent teeth",
+      "Can last decades with good care"
+    ],
+    "whoNeedsIt": [
+      "Adults missing one or more teeth",
+      "Patients unhappy with loose dentures",
+      "Those with adequate bone density (or suitable for grafting)"
+    ],
+    "procedure": [
+      {
+        "title": "Consultation & 3D planning",
+        "description": "Clinical exam, CBCT scan and a written treatment plan with costs."
+      },
+      {
+        "title": "Implant placement",
+        "description": "A short, comfortable procedure under local anaesthesia."
+      },
+      {
+        "title": "Healing (osseointegration)",
+        "description": "Typically 8–12 weeks while the implant fuses with bone."
+      },
+      {
+        "title": "Final crown",
+        "description": "A custom-shaded crown is fitted and your bite is fine-tuned."
+      }
+    ],
+    "recovery": "Mild soreness for 2–3 days is normal and managed with standard pain relief. Soft foods are advised for the first week. Most patients return to work the next day.",
+    "faqs": [
+      {
+        "question": "Is implant surgery painful?",
+        "answer": "It is done under local anaesthesia and most patients describe it as easier than an extraction."
+      },
+      {
+        "question": "How long do implants last?",
+        "answer": "With good oral hygiene and regular check-ups, implants can last 20 years or more."
+      }
+    ]
+  },
+  {
+    "id": "SRV-002",
+    "image": "/images/services/root-canal.svg",
+    "createdAt": "2025-08-27T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": true,
+    "slug": "root-canal",
+    "name": "Root Canal Treatment",
+    "category": "Endodontics",
+    "duration": 60,
+    "price": 4500,
+    "description": "Save an infected or painful tooth with precise, comfortable rotary root canal therapy.",
+    "content": "Root canal treatment removes infected or inflamed pulp from inside the tooth, disinfects the canals and seals them. Using rotary instruments and apex locators, most treatments are completed in one or two visits with minimal discomfort.",
+    "benefits": [
+      "Relieves toothache quickly",
+      "Saves your natural tooth",
+      "Prevents spread of infection",
+      "Usually completed in 1–2 visits"
+    ],
+    "whoNeedsIt": [
+      "Severe or lingering tooth pain",
+      "Sensitivity to hot or cold that doesn't settle",
+      "A swollen gum or abscess near a tooth",
+      "Deep decay reaching the nerve"
+    ],
+    "procedure": [
+      {
+        "title": "Diagnosis & X-ray",
+        "description": "We confirm the cause and map the canals digitally."
+      },
+      {
+        "title": "Cleaning & shaping",
+        "description": "Infected pulp is removed and canals are disinfected."
+      },
+      {
+        "title": "Sealing",
+        "description": "Canals are filled and sealed with biocompatible material."
+      },
+      {
+        "title": "Crown",
+        "description": "A crown is usually recommended to protect the treated tooth."
+      }
+    ],
+    "recovery": "Tenderness when biting may last a few days. Avoid chewing hard foods on the tooth until the final crown is placed.",
+    "faqs": [
+      {
+        "question": "Does a root canal hurt?",
+        "answer": "Modern anaesthesia makes it comparable to getting a filling. It relieves pain rather than causing it."
+      },
+      {
+        "question": "Do I need a crown afterwards?",
+        "answer": "For back teeth, a crown is strongly recommended to prevent fracture."
+      }
+    ]
+  },
+  {
+    "id": "SRV-003",
+    "image": "/images/services/teeth-whitening.svg",
+    "createdAt": "2025-08-28T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": true,
+    "slug": "teeth-whitening",
+    "name": "Teeth Whitening",
+    "category": "Cosmetic",
+    "duration": 60,
+    "price": 8000,
+    "description": "Professional in-clinic whitening that lifts stains safely — several shades brighter in one visit.",
+    "content": "Our in-clinic whitening uses a professional-grade gel activated under controlled conditions, with gums fully protected. It is safe for enamel and delivers far more predictable results than over-the-counter kits.",
+    "benefits": [
+      "Visible results in a single session",
+      "Gum protection throughout",
+      "Custom take-home trays available",
+      "Enamel-safe professional gel"
+    ],
+    "whoNeedsIt": [
+      "Stains from tea, coffee or tobacco",
+      "Age-related yellowing",
+      "Anyone preparing for a special occasion"
+    ],
+    "procedure": [
+      {
+        "title": "Shade assessment",
+        "description": "We record your starting shade and check for sensitivity."
+      },
+      {
+        "title": "Gum protection",
+        "description": "A protective barrier is applied to your gums."
+      },
+      {
+        "title": "Whitening sessions",
+        "description": "Gel is applied in timed cycles for even results."
+      },
+      {
+        "title": "Aftercare",
+        "description": "Desensitising treatment and diet advice for 48 hours."
+      }
+    ],
+    "recovery": "Mild sensitivity for 24–48 hours is common. Avoid strongly coloured food and drinks for two days.",
+    "faqs": [
+      {
+        "question": "How long do results last?",
+        "answer": "Typically 12–24 months, depending on diet and habits."
+      },
+      {
+        "question": "Will whitening work on crowns?",
+        "answer": "No — whitening only affects natural enamel. We'll plan around existing restorations."
+      }
+    ]
+  },
+  {
+    "id": "SRV-004",
+    "image": "/images/services/dental-crowns.svg",
+    "createdAt": "2025-08-29T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "dental-crowns",
+    "name": "Crowns & Bridges",
+    "category": "Restorative",
+    "duration": 45,
+    "price": 6000,
+    "description": "Durable ceramic and zirconia crowns that restore strength and appearance to damaged teeth.",
+    "content": "Crowns cover and protect weakened teeth, while bridges replace a missing tooth by anchoring to neighbouring teeth. We use digital impressions and high-strength ceramics for accurate fit and natural shading.",
+    "benefits": [
+      "Restores chewing strength",
+      "Natural, stain-resistant finish",
+      "Protects root-canal-treated teeth",
+      "Digital impressions — no messy moulds"
+    ],
+    "whoNeedsIt": [
+      "Cracked or heavily filled teeth",
+      "Teeth after root canal treatment",
+      "A single missing tooth (bridge)"
+    ],
+    "procedure": [
+      {
+        "title": "Tooth preparation",
+        "description": "The tooth is shaped to make room for the crown."
+      },
+      {
+        "title": "Digital scan",
+        "description": "An intraoral scan captures a precise model."
+      },
+      {
+        "title": "Temporary crown",
+        "description": "Protects the tooth while the lab crafts your crown."
+      },
+      {
+        "title": "Fitting",
+        "description": "The final crown is checked, adjusted and cemented."
+      }
+    ],
+    "recovery": "Slight gum tenderness for a day or two. Normal eating can resume once the final crown is fitted.",
+    "faqs": [
+      {
+        "question": "Zirconia or porcelain?",
+        "answer": "Zirconia is stronger for back teeth; layered ceramics offer the best aesthetics at the front."
+      }
+    ]
+  },
+  {
+    "id": "SRV-005",
+    "image": "/images/services/porcelain-veneers.svg",
+    "createdAt": "2025-08-30T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "porcelain-veneers",
+    "name": "Porcelain Veneers",
+    "category": "Cosmetic",
+    "duration": 60,
+    "price": 12000,
+    "description": "Ultra-thin ceramic shells that transform the shape, colour and alignment of front teeth.",
+    "content": "Veneers are custom-made porcelain shells bonded to the front surface of teeth. They correct chips, gaps, discolouration and minor misalignment with minimal tooth reduction.",
+    "benefits": [
+      "Natural translucency",
+      "Highly stain-resistant",
+      "Minimal tooth preparation",
+      "Corrects multiple concerns at once"
+    ],
+    "whoNeedsIt": [
+      "Chipped or worn front teeth",
+      "Gaps between teeth",
+      "Deep stains that don't respond to whitening"
+    ],
+    "procedure": [
+      {
+        "title": "Smile design",
+        "description": "Digital preview of your new smile before any work begins."
+      },
+      {
+        "title": "Preparation",
+        "description": "A thin layer of enamel is refined."
+      },
+      {
+        "title": "Bonding",
+        "description": "Veneers are bonded and polished."
+      }
+    ],
+    "recovery": "No downtime. Some patients notice brief sensitivity after preparation.",
+    "faqs": [
+      {
+        "question": "How many veneers do I need?",
+        "answer": "Most smile designs involve 6–10 upper teeth, but it depends on your smile line."
+      }
+    ]
+  },
+  {
+    "id": "SRV-006",
+    "image": "/images/services/clear-aligners.svg",
+    "createdAt": "2025-08-31T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": true,
+    "slug": "clear-aligners",
+    "name": "Clear Aligners",
+    "category": "Orthodontics",
+    "duration": 45,
+    "price": 85000,
+    "description": "Nearly invisible, removable aligners to straighten teeth without brackets or wires.",
+    "content": "Clear aligners gradually move teeth using a series of custom trays planned digitally. They're removable for eating and brushing, and practically invisible in daily life.",
+    "benefits": [
+      "Virtually invisible",
+      "Removable for meals and brushing",
+      "Fewer clinic visits",
+      "Digital preview of your final result"
+    ],
+    "whoNeedsIt": [
+      "Crowded or spaced teeth",
+      "Mild to moderate bite issues",
+      "Adults who prefer discreet treatment"
+    ],
+    "procedure": [
+      {
+        "title": "Scan & plan",
+        "description": "3D scan and a digital simulation of tooth movement."
+      },
+      {
+        "title": "Aligner series",
+        "description": "Switch to a new set every 1–2 weeks."
+      },
+      {
+        "title": "Progress checks",
+        "description": "Short reviews every 6–8 weeks."
+      },
+      {
+        "title": "Retention",
+        "description": "Retainers keep your new smile in place."
+      }
+    ],
+    "recovery": "Each new set may feel tight for a day or two — a sign they're working.",
+    "faqs": [
+      {
+        "question": "How many hours a day?",
+        "answer": "Aligners should be worn 20–22 hours daily for predictable results."
+      }
+    ]
+  },
+  {
+    "id": "SRV-007",
+    "image": "/images/services/braces.svg",
+    "createdAt": "2025-09-01T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "braces",
+    "name": "Metal & Ceramic Braces",
+    "category": "Orthodontics",
+    "duration": 45,
+    "price": 35000,
+    "description": "Reliable fixed orthodontics for teens and adults, with tooth-coloured ceramic options.",
+    "content": "Fixed braces remain the most versatile option for correcting complex crowding and bite problems. Ceramic brackets offer a discreet alternative to traditional metal.",
+    "benefits": [
+      "Treats complex cases",
+      "Predictable, controlled results",
+      "Discreet ceramic option",
+      "Cost-effective"
+    ],
+    "whoNeedsIt": [
+      "Teens with crowding or bite issues",
+      "Adults with complex alignment needs"
+    ],
+    "procedure": [
+      {
+        "title": "Records",
+        "description": "Photos, X-rays and models for planning."
+      },
+      {
+        "title": "Bonding",
+        "description": "Brackets are attached and wires placed."
+      },
+      {
+        "title": "Adjustments",
+        "description": "Monthly visits to progress treatment."
+      }
+    ],
+    "recovery": "Mild soreness for a few days after placement and adjustments.",
+    "faqs": [
+      {
+        "question": "How long is treatment?",
+        "answer": "Usually 12–24 months depending on complexity."
+      }
+    ]
+  },
+  {
+    "id": "SRV-008",
+    "image": "/images/services/dental-cleaning.svg",
+    "createdAt": "2025-09-02T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "dental-cleaning",
+    "name": "Scaling & Polishing",
+    "category": "Preventive",
+    "duration": 30,
+    "price": 1500,
+    "description": "Thorough professional cleaning to remove plaque and tartar and keep gums healthy.",
+    "content": "Professional scaling removes hardened tartar that brushing cannot, followed by polishing to smooth the tooth surface and reduce future build-up.",
+    "benefits": [
+      "Fresher breath",
+      "Healthier gums",
+      "Removes surface stains",
+      "Prevents gum disease"
+    ],
+    "whoNeedsIt": [
+      "Everyone — every 6 months",
+      "Bleeding gums while brushing",
+      "Visible tartar build-up"
+    ],
+    "procedure": [
+      {
+        "title": "Examination",
+        "description": "Gum health check and charting."
+      },
+      {
+        "title": "Ultrasonic scaling",
+        "description": "Gentle removal of tartar."
+      },
+      {
+        "title": "Polishing",
+        "description": "Smooths enamel and removes stains."
+      }
+    ],
+    "recovery": "No downtime. Slight gum sensitivity for a day is normal.",
+    "faqs": [
+      {
+        "question": "Does cleaning damage enamel?",
+        "answer": "No. Professional scaling removes deposits, not enamel."
+      }
+    ]
+  },
+  {
+    "id": "SRV-009",
+    "image": "/images/services/tooth-fillings.svg",
+    "createdAt": "2025-09-03T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "tooth-fillings",
+    "name": "Tooth-Coloured Fillings",
+    "category": "Restorative",
+    "duration": 30,
+    "price": 1800,
+    "description": "Invisible composite fillings that repair cavities and blend seamlessly with your teeth.",
+    "content": "Composite fillings are bonded directly to the tooth, requiring less drilling than metal fillings and matching the natural shade of your teeth.",
+    "benefits": [
+      "Matches natural tooth colour",
+      "Conservative preparation",
+      "Bonded for strength",
+      "Completed in one visit"
+    ],
+    "whoNeedsIt": [
+      "Small to medium cavities",
+      "Chipped teeth",
+      "Replacing old silver fillings"
+    ],
+    "procedure": [
+      {
+        "title": "Decay removal",
+        "description": "Affected tooth structure is removed gently."
+      },
+      {
+        "title": "Layering",
+        "description": "Composite is placed in thin, cured layers."
+      },
+      {
+        "title": "Shaping & polish",
+        "description": "Bite adjusted and surface polished."
+      }
+    ],
+    "recovery": "You can eat normally once numbness wears off.",
+    "faqs": [
+      {
+        "question": "How long do fillings last?",
+        "answer": "Composite fillings typically last 7–10 years."
+      }
+    ]
+  },
+  {
+    "id": "SRV-010",
+    "image": "/images/services/tooth-extraction.svg",
+    "createdAt": "2025-09-04T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "tooth-extraction",
+    "name": "Tooth Extraction",
+    "category": "Oral Surgery",
+    "duration": 30,
+    "price": 1500,
+    "description": "Gentle, atraumatic removal of damaged or non-restorable teeth.",
+    "content": "When a tooth cannot be saved, we perform atraumatic extractions that protect surrounding bone — important if you plan to replace it with an implant later.",
+    "benefits": [
+      "Relieves pain from non-restorable teeth",
+      "Bone-preserving technique",
+      "Clear aftercare guidance"
+    ],
+    "whoNeedsIt": [
+      "Severely broken or decayed teeth",
+      "Advanced gum disease",
+      "Orthodontic space requirements"
+    ],
+    "procedure": [
+      {
+        "title": "Assessment",
+        "description": "X-ray and discussion of replacement options."
+      },
+      {
+        "title": "Extraction",
+        "description": "Performed under local anaesthesia."
+      },
+      {
+        "title": "Aftercare",
+        "description": "Written instructions and a follow-up check."
+      }
+    ],
+    "recovery": "Avoid rinsing, straws and smoking for 24 hours. Most discomfort settles within 2–3 days.",
+    "faqs": [
+      {
+        "question": "Should I replace an extracted tooth?",
+        "answer": "Usually yes — gaps can cause neighbouring teeth to shift."
+      }
+    ]
+  },
+  {
+    "id": "SRV-011",
+    "image": "/images/services/wisdom-tooth-removal.svg",
+    "createdAt": "2025-09-05T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "wisdom-tooth-removal",
+    "name": "Wisdom Tooth Removal",
+    "category": "Oral Surgery",
+    "duration": 60,
+    "price": 6500,
+    "description": "Safe surgical removal of impacted or painful wisdom teeth.",
+    "content": "Impacted wisdom teeth can cause pain, infection and damage to adjacent teeth. We plan each case with digital imaging for a safe, efficient procedure.",
+    "benefits": [
+      "Prevents recurring infection",
+      "Protects neighbouring teeth",
+      "Planned with digital imaging"
+    ],
+    "whoNeedsIt": [
+      "Pain or swelling at the back of the mouth",
+      "Partially erupted wisdom teeth",
+      "Recurrent gum infection around wisdom teeth"
+    ],
+    "procedure": [
+      {
+        "title": "Imaging",
+        "description": "OPG or CBCT to assess position and nerves."
+      },
+      {
+        "title": "Surgery",
+        "description": "Performed under local anaesthesia."
+      },
+      {
+        "title": "Review",
+        "description": "Suture check after one week."
+      }
+    ],
+    "recovery": "Expect swelling for 2–4 days. Cold compresses and soft foods help. Most patients take one or two days off.",
+    "faqs": [
+      {
+        "question": "Do all wisdom teeth need removal?",
+        "answer": "No — only those causing problems or likely to."
+      }
+    ]
+  },
+  {
+    "id": "SRV-012",
+    "image": "/images/services/pediatric-dentistry.svg",
+    "createdAt": "2025-09-06T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "pediatric-dentistry",
+    "name": "Children's Dentistry",
+    "category": "Pediatric",
+    "duration": 30,
+    "price": 800,
+    "description": "Friendly, preventive dental care that helps children build healthy habits early.",
+    "content": "Our child-friendly appointments focus on prevention — fluoride application, pit-and-fissure sealants and gentle treatment — in an environment designed to make kids feel at ease.",
+    "benefits": [
+      "Positive first experiences",
+      "Preventive sealants & fluoride",
+      "Growth monitoring",
+      "Habit counselling"
+    ],
+    "whoNeedsIt": [
+      "Children from their first tooth",
+      "Kids with cavities or sensitivity",
+      "Thumb-sucking or habit concerns"
+    ],
+    "procedure": [
+      {
+        "title": "Tell-show-do",
+        "description": "We explain every step in child-friendly language."
+      },
+      {
+        "title": "Check-up",
+        "description": "Gentle exam and cleaning."
+      },
+      {
+        "title": "Prevention",
+        "description": "Fluoride or sealants as needed."
+      }
+    ],
+    "recovery": "No downtime.",
+    "faqs": [
+      {
+        "question": "When should my child first visit?",
+        "answer": "By their first birthday or when the first tooth appears."
+      }
+    ]
+  },
+  {
+    "id": "SRV-013",
+    "image": "/images/services/gum-treatment.svg",
+    "createdAt": "2025-09-07T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "gum-treatment",
+    "name": "Gum Disease Treatment",
+    "category": "Periodontics",
+    "duration": 45,
+    "price": 3500,
+    "description": "Deep cleaning and periodontal care to treat bleeding, receding or infected gums.",
+    "content": "Gum disease is the leading cause of tooth loss in adults. Deep cleaning (root planing) removes bacteria below the gumline and allows gums to heal and reattach.",
+    "benefits": [
+      "Stops bleeding gums",
+      "Reduces bad breath",
+      "Helps prevent tooth loss"
+    ],
+    "whoNeedsIt": [
+      "Bleeding or swollen gums",
+      "Receding gums",
+      "Loose teeth"
+    ],
+    "procedure": [
+      {
+        "title": "Charting",
+        "description": "Pocket depths measured around every tooth."
+      },
+      {
+        "title": "Deep cleaning",
+        "description": "Root surfaces cleaned under anaesthesia."
+      },
+      {
+        "title": "Maintenance",
+        "description": "Review in 6–8 weeks."
+      }
+    ],
+    "recovery": "Gums may be tender for a few days. Warm salt-water rinses help healing.",
+    "faqs": [
+      {
+        "question": "Is gum disease reversible?",
+        "answer": "Early gingivitis is fully reversible; periodontitis can be controlled."
+      }
+    ]
+  },
+  {
+    "id": "SRV-014",
+    "image": "/images/services/dentures.svg",
+    "createdAt": "2025-09-08T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "dentures",
+    "name": "Complete & Partial Dentures",
+    "category": "Prosthodontics",
+    "duration": 60,
+    "price": 18000,
+    "description": "Comfortable, natural-looking dentures designed for a secure fit and confident smile.",
+    "content": "Modern dentures are custom-designed for comfort and appearance. Implant-supported options offer significantly better stability.",
+    "benefits": [
+      "Restores chewing and speech",
+      "Natural-looking teeth and gums",
+      "Implant-retained options"
+    ],
+    "whoNeedsIt": [
+      "Multiple missing teeth",
+      "Loose or ill-fitting old dentures"
+    ],
+    "procedure": [
+      {
+        "title": "Impressions",
+        "description": "Detailed moulds of your gums."
+      },
+      {
+        "title": "Try-in",
+        "description": "Preview fit, bite and appearance."
+      },
+      {
+        "title": "Delivery",
+        "description": "Final fit with adjustments."
+      }
+    ],
+    "recovery": "An adjustment period of 2–4 weeks is normal.",
+    "faqs": [
+      {
+        "question": "Can I sleep with dentures?",
+        "answer": "We recommend removing them at night to let gums rest."
+      }
+    ]
+  },
+  {
+    "id": "SRV-015",
+    "image": "/images/services/smile-makeover.svg",
+    "createdAt": "2025-09-09T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "smile-makeover",
+    "name": "Smile Makeover",
+    "category": "Cosmetic",
+    "duration": 90,
+    "price": 45000,
+    "description": "A personalised combination of cosmetic treatments to redesign your smile.",
+    "content": "A smile makeover combines whitening, veneers, contouring and alignment to achieve your ideal smile — planned digitally so you can preview the result first.",
+    "benefits": [
+      "Digital smile preview",
+      "Comprehensive, coordinated plan",
+      "Life-changing confidence"
+    ],
+    "whoNeedsIt": [
+      "Multiple cosmetic concerns",
+      "Upcoming milestones such as weddings"
+    ],
+    "procedure": [
+      {
+        "title": "Smile design",
+        "description": "Photos, scans and a digital mock-up."
+      },
+      {
+        "title": "Treatment phases",
+        "description": "Sequenced whitening, veneers or aligners."
+      },
+      {
+        "title": "Finishing",
+        "description": "Final polish and maintenance plan."
+      }
+    ],
+    "recovery": "Depends on the treatments involved.",
+    "faqs": [
+      {
+        "question": "How long does a makeover take?",
+        "answer": "From two weeks to several months, depending on the plan."
+      }
+    ]
+  },
+  {
+    "id": "SRV-016",
+    "image": "/images/services/dental-consultation.svg",
+    "createdAt": "2025-09-10T04:30:00.000Z",
+    "updatedAt": "2026-08-31T04:30:00.000Z",
+    "published": true,
+    "featured": false,
+    "slug": "dental-consultation",
+    "name": "Consultation & Digital X-Ray",
+    "category": "General",
+    "duration": 30,
+    "price": 500,
+    "description": "A thorough examination with digital X-rays and a clear, written treatment plan.",
+    "content": "Every journey at SmileCare begins with a full consultation: oral examination, digital X-rays where needed, and an honest conversation about your options and costs.",
+    "benefits": [
+      "Comprehensive diagnosis",
+      "Low-radiation digital X-rays",
+      "Written estimate"
+    ],
+    "whoNeedsIt": [
+      "New patients",
+      "Anyone with pain or concerns",
+      "Second opinions"
+    ],
+    "procedure": [
+      {
+        "title": "History",
+        "description": "Medical and dental history review."
+      },
+      {
+        "title": "Examination",
+        "description": "Teeth, gums, bite and soft tissues."
+      },
+      {
+        "title": "Plan",
+        "description": "Options, timelines and costs explained."
+      }
+    ],
+    "recovery": "None.",
+    "faqs": [
+      {
+        "question": "Is the consultation fee adjusted?",
+        "answer": "Yes — it's adjusted against treatment started within 30 days."
+      }
+    ]
+  }
+]

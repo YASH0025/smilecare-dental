@@ -1,0 +1,220 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "@fontsource-variable/inter";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --radius: 0.625rem;
+
+  /* Surfaces */
+  --background: #ffffff;
+  --foreground: #0b1b34;
+  --card: #ffffff;
+  --card-foreground: #0b1b34;
+  --popover: #ffffff;
+  --popover-foreground: #0b1b34;
+
+  /* Brand: professional blue, restrained teal accent */
+  --primary: #1f5ad6;
+  --primary-foreground: #ffffff;
+  --secondary: #f2f5fa;
+  --secondary-foreground: #0f2344;
+  --muted: #f5f7fb;
+  --muted-foreground: #5b6b82;
+  --accent: #eef4ff;
+  --accent-foreground: #173f96;
+  --teal: #0f9b9a;
+  --teal-soft: #e6f6f5;
+  --destructive: #d23b3b;
+  --destructive-foreground: #ffffff;
+
+  --border: #e3e8f0;
+  --input: #dbe2ec;
+  --ring: #1f5ad6;
+
+  /* Canvas used behind admin content & public alternating sections */
+  --canvas: #f7f9fc;
+
+  /* Appointment status palette (used by badges + calendar) */
+  --status-pending: #64748b;
+  --status-pending-bg: #f1f5f9;
+  --status-confirmed: #1f5ad6;
+  --status-confirmed-bg: #e8effd;
+  --status-completed: #16874f;
+  --status-completed-bg: #e7f6ee;
+  --status-cancelled: #d23b3b;
+  --status-cancelled-bg: #fdecec;
+  --status-noshow: #b7791f;
+  --status-noshow-bg: #fdf5e3;
+  --status-rescheduled: #7c4ddb;
+  --status-rescheduled-bg: #f1ebfd;
+
+  --chart-1: #1f5ad6;
+  --chart-2: #0f9b9a;
+  --chart-3: #7c4ddb;
+  --chart-4: #b7791f;
+  --chart-5: #64748b;
+
+  --sidebar: #ffffff;
+  --sidebar-foreground: #334155;
+  --sidebar-border: #e8ecf3;
+  --sidebar-accent: #f1f5fd;
+  --sidebar-accent-foreground: #0b1b34;
+}
+
+@theme inline {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-teal: var(--teal);
+  --color-teal-soft: var(--teal-soft);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-canvas: var(--canvas);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --shadow-soft: 0 1px 2px rgba(11, 27, 52, 0.04), 0 1px 3px rgba(11, 27, 52, 0.04);
+  --shadow-card: 0 1px 2px rgba(11, 27, 52, 0.04), 0 8px 24px -12px rgba(11, 27, 52, 0.12);
+  --shadow-lift: 0 2px 4px rgba(11, 27, 52, 0.04), 0 18px 40px -18px rgba(11, 27, 52, 0.22);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/40;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01", "ss03";
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    letter-spacing: -0.02em;
+  }
+  ::selection {
+    background: #d6e2fb;
+  }
+}
+
+@layer utilities {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .eyebrow {
+    @apply text-xs font-semibold tracking-[0.14em] text-primary uppercase;
+  }
+}
+
+/* ---------- FullCalendar theming ---------- */
+.fc {
+  --fc-border-color: var(--border);
+  --fc-today-bg-color: #f4f8ff;
+  --fc-page-bg-color: #ffffff;
+  --fc-neutral-bg-color: var(--muted);
+  --fc-list-event-hover-bg-color: var(--muted);
+  --fc-now-indicator-color: var(--destructive);
+  font-size: 0.8125rem;
+}
+.fc .fc-col-header-cell-cushion,
+.fc .fc-daygrid-day-number {
+  color: var(--muted-foreground);
+  font-weight: 500;
+  text-decoration: none;
+}
+.fc .fc-col-header-cell {
+  background: var(--canvas);
+  padding: 6px 0;
+}
+.fc .fc-daygrid-day.fc-day-today .fc-daygrid-day-number {
+  background: var(--primary);
+  color: #fff;
+  border-radius: 9999px;
+  min-width: 1.6rem;
+  text-align: center;
+  margin: 4px;
+  padding: 2px 6px;
+}
+.fc .fc-event {
+  border-radius: 6px;
+  border-width: 0;
+  border-left-width: 3px;
+  padding: 1px 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+.fc .fc-timegrid-slot {
+  height: 2.5rem;
+}
+.fc .fc-timegrid-slot-label-cushion,
+.fc .fc-timegrid-axis-cushion {
+  color: var(--muted-foreground);
+  font-size: 0.75rem;
+}
+.fc .fc-list-day-cushion {
+  background: var(--canvas);
+}
+.fc .fc-scrollgrid {
+  border-radius: 10px;
+  overflow: hidden;
+}
+.fc-theme-standard .fc-list {
+  border-radius: 10px;
+}
+.fc .fc-daygrid-more-link {
+  color: var(--primary);
+  font-weight: 500;
+}
+
+/* ---------- Print ---------- */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff !important;
+  }
+  .print-sheet {
+    box-shadow: none !important;
+    border: none !important;
+    margin: 0 !important;
+    max-width: none !important;
+  }
+}

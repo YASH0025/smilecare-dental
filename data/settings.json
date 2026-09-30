@@ -1,0 +1,41 @@
+{
+  "name": "SmileCare Dental Clinic",
+  "tagline": "Healthy Smile. Confident You.",
+  "logoText": "SmileCare",
+  "logoUrl": "",
+  "phone": "+91 98260 45123",
+  "whatsapp": "+91 98260 45123",
+  "email": "hello@smilecare.com",
+  "address": "2nd Floor, Orbit Plaza, 14 New Palasia, Indore, Madhya Pradesh 452001",
+  "city": "Indore",
+  "emergencyContact": "+91 98260 45199",
+  "openingHours": [
+    {
+      "label": "Monday \u2013 Saturday",
+      "hours": "10:00 AM \u2013 7:00 PM"
+    },
+    {
+      "label": "Lunch break",
+      "hours": "1:30 PM \u2013 2:30 PM"
+    },
+    {
+      "label": "Sunday",
+      "hours": "Emergencies only"
+    }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/smilecare.indore",
+    "facebook": "https://facebook.com/smilecare.indore",
+    "youtube": "https://youtube.com/@smilecareindore",
+    "linkedin": "https://linkedin.com/company/smilecare-dental"
+  },
+  "googleMapsUrl": "https://maps.google.com/?q=New+Palasia+Indore",
+  "googleMapsEmbedUrl": "https://www.google.com/maps?q=New%20Palasia%20Indore&output=embed",
+  "slotInterval": 30,
+  "bookingWindowDays": 60,
+  "taxRate": 0,
+  "currency": "INR",
+  "invoicePrefix": "SC",
+  "upiId": "",
+  "upiPayeeName": "SmileCare Dental Clinic"
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "FAQ-001",
+    "question": "Do I need an appointment, or can I walk in?",
+    "answer": "We recommend booking online or by phone so we can reserve time for you. Walk-ins are accommodated when a slot is free, and dental emergencies are always prioritised.",
+    "category": "General",
+    "order": 1,
+    "published": true,
+    "createdAt": "2025-09-30T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-002",
+    "question": "What should I bring to my first visit?",
+    "answer": "Please bring any previous dental X-rays or reports, a list of current medications, and arrive 10 minutes early to complete a short medical history form.",
+    "category": "General",
+    "order": 2,
+    "published": true,
+    "createdAt": "2025-10-01T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-003",
+    "question": "Is parking available?",
+    "answer": "Yes — Orbit Plaza has basement parking for patients, and we're a short walk from the New Palasia bus stop.",
+    "category": "General",
+    "order": 3,
+    "published": true,
+    "createdAt": "2025-10-02T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-004",
+    "question": "Do you treat dental emergencies?",
+    "answer": "Yes. Call our emergency line for severe pain, swelling, trauma or bleeding. On Sundays we see emergencies by prior call.",
+    "category": "General",
+    "order": 4,
+    "published": true,
+    "createdAt": "2025-10-03T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-005",
+    "question": "How do I reschedule or cancel?",
+    "answer": "Call or WhatsApp our front desk at least 24 hours in advance, and we'll move your appointment to a time that suits you.",
+    "category": "Appointments",
+    "order": 5,
+    "published": true,
+    "createdAt": "2025-10-04T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-006",
+    "question": "How long does a typical appointment take?",
+    "answer": "Check-ups and cleanings take 30 minutes; root canals and implant procedures usually take about an hour. Your booking confirmation shows the expected duration.",
+    "category": "Appointments",
+    "order": 6,
+    "published": true,
+    "createdAt": "2025-10-05T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-007",
+    "question": "Will I receive a confirmation?",
+    "answer": "Online requests are reviewed by our team, who confirm your slot and send you a reminder before the visit.",
+    "category": "Appointments",
+    "order": 7,
+    "published": true,
+    "createdAt": "2025-10-06T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-008",
+    "question": "Are root canal treatments painful?",
+    "answer": "With modern anaesthesia and rotary instruments, most patients feel little more than they would during a filling.",
+    "category": "Treatments",
+    "order": 8,
+    "published": true,
+    "createdAt": "2025-10-07T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-009",
+    "question": "How long do dental implants last?",
+    "answer": "With good hygiene and regular check-ups, implants can last 20 years or longer.",
+    "category": "Treatments",
+    "order": 9,
+    "published": true,
+    "createdAt": "2025-10-08T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-010",
+    "question": "Is teeth whitening safe for enamel?",
+    "answer": "Professional whitening under supervision is safe for enamel. Temporary sensitivity may occur and settles within 48 hours.",
+    "category": "Treatments",
+    "order": 10,
+    "published": true,
+    "createdAt": "2025-10-09T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-011",
+    "question": "At what age should my child see a dentist?",
+    "answer": "By their first birthday, or as soon as the first tooth appears.",
+    "category": "Treatments",
+    "order": 11,
+    "published": true,
+    "createdAt": "2025-10-10T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-012",
+    "question": "What payment methods do you accept?",
+    "answer": "Cash, UPI, all major debit and credit cards, bank transfer and online payment links.",
+    "category": "Payments",
+    "order": 12,
+    "published": true,
+    "createdAt": "2025-10-11T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-013",
+    "question": "Do you offer EMI or instalment plans?",
+    "answer": "Yes, for implant, aligner and smile makeover treatments. Ask our front desk for current options.",
+    "category": "Payments",
+    "order": 13,
+    "published": true,
+    "createdAt": "2025-10-12T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-014",
+    "question": "Will I get a written estimate?",
+    "answer": "Always. You'll receive a written treatment plan with costs before any procedure begins.",
+    "category": "Payments",
+    "order": 14,
+    "published": true,
+    "createdAt": "2025-10-13T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-015",
+    "question": "How do you sterilise instruments?",
+    "answer": "All instruments go through ultrasonic cleaning and Class-B autoclave sterilisation, and we use single-use disposables wherever possible.",
+    "category": "Safety",
+    "order": 15,
+    "published": true,
+    "createdAt": "2025-10-14T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  },
+  {
+    "id": "FAQ-016",
+    "question": "Are digital X-rays safe?",
+    "answer": "Digital X-rays use up to 80% less radiation than conventional film and are only taken when clinically necessary.",
+    "category": "Safety",
+    "order": 16,
+    "published": true,
+    "createdAt": "2025-10-15T04:30:00.000Z",
+    "updatedAt": "2026-08-01T04:30:00.000Z"
+  }
+]
